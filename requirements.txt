@@ -1,0 +1,4 @@
+python-binance==1.0.16
+pandas>=1.3.0
+beautifulsoup4>=4.10.0streamlit
+binance  # Add this if your bot uses the Binance API
